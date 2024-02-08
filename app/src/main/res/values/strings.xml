@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotificationManager</string>
+    <string name="channel_name">NotificationManager</string>
+    <string name="channel_description">TextNotifications</string>
+    <string name="notification_name_res">Notifications</string>
+    <string name="notification_description_res">Useful notifications</string>
+</resources>
